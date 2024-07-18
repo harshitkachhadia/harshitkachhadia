@@ -2,7 +2,7 @@
 
 👋 I'm Harshit Kachhadiya, a passionate web developer on a journey to craft remarkable digital experiences.
 
-🚀 With a solid foundation in React.js, CSS, JavaScript, HTML, and Java, I'm now delving into the world of Node.js to expand my skills and build scalable, efficient web applications.
+🚀 With a solid foundation in Node.js, Express.js, MongoDb, React.js, JavaScript. I'm now delving into the world of Backend Development to expand my skills and build scalable, efficient web applications.
 
 💻 Armed with creativity and a commitment to clean, maintainable code, I thrive on transforming innovative ideas into functional, user-centric solutions.
 
@@ -12,7 +12,6 @@
 
 - 🔭 I’m currently working on React Js Project
 - 🌱 I’m currently learning Node js 
-- 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 
 ---
