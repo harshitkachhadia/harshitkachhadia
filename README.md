@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Kachhadiya</h1>
 <h3 align="center">A passionate Full-Stack developer from India </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitkachhadia&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-hk133" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitkachhadia&label=Profile%20views&color=0e75b6&style=flat" alt="harshitkachhadia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-hk133" alt="harshit-hk133" /></a> </p>
 
